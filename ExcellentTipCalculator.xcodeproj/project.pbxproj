@@ -13,6 +13,7 @@
 		E127A6C5224B0BAB00D418C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E127A6C4224B0BAB00D418C7 /* Assets.xcassets */; };
 		E127A6C8224B0BAB00D418C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E127A6C6224B0BAB00D418C7 /* LaunchScreen.storyboard */; };
 		E127A6D3224B0BAB00D418C7 /* ExcellentTipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E127A6D2224B0BAB00D418C7 /* ExcellentTipCalculatorUITests.swift */; };
+		E12B8E862251D62200FA1410 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12B8E852251D62200FA1410 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E127A6CE224B0BAB00D418C7 /* ExcellentTipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExcellentTipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E127A6D2224B0BAB00D418C7 /* ExcellentTipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcellentTipCalculatorUITests.swift; sourceTree = "<group>"; };
 		E127A6D4224B0BAB00D418C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E12B8E852251D62200FA1410 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		E127A6BC224B0BAA00D418C7 /* ExcellentTipCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				E12B8E852251D62200FA1410 /* SettingsViewController.swift */,
 				E127A6BD224B0BAA00D418C7 /* AppDelegate.swift */,
 				E127A6BF224B0BAA00D418C7 /* ViewController.swift */,
 				E127A6C1224B0BAA00D418C7 /* Main.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				E127A6C0224B0BAA00D418C7 /* ViewController.swift in Sources */,
 				E127A6BE224B0BAA00D418C7 /* AppDelegate.swift in Sources */,
+				E12B8E862251D62200FA1410 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,6 +365,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T9WP2PUG45;
 				INFOPLIST_FILE = ExcellentTipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -378,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T9WP2PUG45;
 				INFOPLIST_FILE = ExcellentTipCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

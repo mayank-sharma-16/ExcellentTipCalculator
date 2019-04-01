@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/a/uMLHVbq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Vrhhzka.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 (The above embedding may fail: if so, then the link below leads to the walkthrough as well)
 

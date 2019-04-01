@@ -16,6 +16,14 @@ The following **additional** features are implemented:
 * [ ] Settings page, but no settings are added to this page yet
 * [ ] A "Done" button is added to a toolbar that appears with the keyboard so that the user can dismiss the keyboard
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://imgur.com/a/SmOM0Ho' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Notes
 
 As someone who has not previously dealt with Swift/Objective-C or mobile app development (aside from a brief stint back in high school with
